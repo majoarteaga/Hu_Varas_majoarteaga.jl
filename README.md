@@ -1,8 +1,8 @@
 # Hu and Varas (JoF, 2021) A Theory of Zombie Lending: REPLICATION
 
--This Julia project is based on Hu and Varas (2021). This notebook attempts to replicate the paper's main results using Julia. The code is based on the authors' replication code shared by the JoF.
+* This Julia project is based on Hu and Varas (2021). This notebook attempts to replicate the paper's main results using Julia. The code is based on the authors' replication code shared by the JoF.
 
--This file solves the always binding financial constraint case from Section II.B of the [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13022). Moreover, it plots the results for the numerical example from Figure 2.
+* This file solves the always binding financial constraint case from Section II.B of the [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13022). Moreover, it plots the results for the numerical example from Figure 2.
 
 
 ![alt text](https://i.ibb.co/6nDw6yx/Screenshot-2022-01-23-at-23-59-40.png)
