@@ -1,4 +1,4 @@
-# Hu and Varas (WP, 2021) A Theory of Zombie Lending: REPLICATION
+# Hu and Varas (JoF, 2021) A Theory of Zombie Lending: REPLICATION
 
 -This Julia project is based on Hu and Varas (2021). This notebook attempts to replicate the paper's main results using Julia. The code is based on the authors' replication code shared by the JoF.
 
