@@ -1,8 +1,8 @@
 # Hu and Varas (JoF, 2021) A Theory of Zombie Lending: REPLICATION
 
-| **Documentation** | **Build Status**                                                                                |
-|:---------------------:|:------------------:|
-| [![][docs-stable-img]][docs-stable-url] [![][docs-dev-img]][docs-dev-url] | [![][travis-img]][travis-url] [![][appveyor-img]][appveyor-url] |
+| **Documentation** |                                                                         
+|:---------------------:|
+| [![][docs-stable-img]][docs-stable-url] [![][docs-dev-img]][docs-dev-url] 
 
 
 * This Julia project is based on Hu and Varas (2021). This notebook attempts to replicate the paper's main results using Julia. The code is based on the authors' replication code shared by the JoF.
@@ -26,3 +26,15 @@ Hu_Varas_majoarteaga.plot2
 ```
 
 Plots 1 and 2 show the replicated versions of Panel A and B, respectively.
+
+
+
+[docs-dev-img]: https://img.shields.io/badge/docs-dev-blue.svg
+[docs-dev-url]: https://majoarteaga.github.io/Hu_Varas_majoarteaga.jl/latest
+
+[docs-stable-img]: https://img.shields.io/badge/docs-stable-blue.svg
+[docs-stable-url]: https://majoarteaga.github.io/Hu_Varas_majoarteaga.jl/latest
+
+
+
+
