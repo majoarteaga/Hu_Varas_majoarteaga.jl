@@ -1,7 +1,7 @@
 """
     Hu and Varas (WP, 2021) A Theory of Zombie Lending: REPLICATION
     
-    This code replicates Figure 2 (Paanel A and Panel B) of Hu and Varas (2021). 
+    This code replicates Figure 2 (Panel A and Panel B) of Hu and Varas (2021). 
     The left panel shows the joint valuations of the entrepreneur and the bank,
     the right one only shows those of the bank. In this example, tb = 1.2921 and tg = 2.1006.
     
@@ -10,8 +10,6 @@
     
     Hu_Varas_majoarteaga.plot1 : Panel A of Figure 2
     Hu_Varas_majoarteaga.plot2 : Panel B of Figure 2
-    
-    
 """
 
 
