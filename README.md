@@ -30,10 +30,8 @@
 3. Obtain both Panel A and Panel B from the paper's Figure 2.
 ```
 julia> using Hu_Varas_majoarteaga
-
 julia> Hu_Varas_majoarteaga.plot1
 julia> Hu_Varas_majoarteaga.plot2
-
 ```
 ![alt text](https://i.ibb.co/9sVzyz0/Screenshot-2022-01-28-at-03-05-29.png)
 ![alt text](https://i.ibb.co/ZhX3G4T/Screenshot-2022-01-28-at-03-05-39.png)
