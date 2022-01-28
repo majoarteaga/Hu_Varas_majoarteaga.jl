@@ -41,10 +41,10 @@ julia> Hu_Varas_majoarteaga.plot2
 
 
 [docs-dev-img]: https://img.shields.io/badge/docs-dev-blue.svg
-[docs-dev-url]: https://majoarteaga.github.io/Hu_Varas_majoarteaga.jl/latest
+[docs-dev-url]: https://majoarteaga.github.io/Hu_Varas_majoarteaga.jl/
 
 [docs-stable-img]: https://img.shields.io/badge/docs-stable-blue.svg
-[docs-stable-url]: https://majoarteaga.github.io/Hu_Varas_majoarteaga.jl/latest
+[docs-stable-url]: https://majoarteaga.github.io/Hu_Varas_majoarteaga.jl/
 
 
 
