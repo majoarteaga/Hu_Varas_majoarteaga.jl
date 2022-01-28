@@ -1,12 +1,9 @@
 # Hu and Varas (WP, 2021) A Theory of Zombie Lending: REPLICATION
 
-
-*Abstract: An entrepreneur borrows from a relationship bank or the market. The bank has a higher cost of capital but produces private information over time. While the entrepreneur accumulates reputation as the lending relationship continues, asymmetric information is also developed between the bank/entrepreneur and the market. In this setting, zombie lending is inevitable: Once the entrepreneur becomes sufficiently reputable, the bank will roll over loans even after learning bad news, for the prospect of future market financing. Zombie lending is mitigated when the entrepreneur faces financial constraints. Finally, the bank stops producing information too early if information production is costly.*
-
-
 -This Julia project is based on Hu and Varas (2021). This notebook attempts to replicate the paper's main results using Julia. The code is based on the authors' replication code shared by the JoF.
 
--This file solves the always binding financial constraint case from Section II.B. See Figure 2 below for reference.
+-This file solves the always binding financial constraint case from Section II.B of the [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13022). Moreover, it plots the results for the numerical example from Figure 2.
+
 
 ![alt text](https://i.ibb.co/6nDw6yx/Screenshot-2022-01-23-at-23-59-40.png)
 
